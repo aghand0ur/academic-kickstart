@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Dr Ali J. Ghandour
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher at the National Center for Remote Sensing
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: National Council for Scientific Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
