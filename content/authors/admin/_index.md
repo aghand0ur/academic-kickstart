@@ -15,7 +15,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: National Council for Scientific Research (CNRS)
-  url: "http://www.cnrs.edu.lb/"
+  url: "http://rsensing.cnrs.edu.lb/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include smart city transportation, urban features detection from high resolution aerial imagery and geospatila deep learning.
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Ali Ghandour earned a Ph.D. in Computer Communication in 2013. He was with Toyoto InfoTechnology Center at Mountain View, USA before joining the National Council for Scientific Research (CNRS) Lebanon in 2015 where he is a Researcher at National Center for Remote Sensing. Dr Ghandour has established the Geospatial Smart City Lab. He is also the coordinator of the Lebanese National Technology Transfer Network. Ali has more than 30 publications with special focus on geospatial smart cities, transportation and urban features extraction from aerial imagery using deep learning techniques. 
+Ali Ghandour earned a Ph.D. in Computer Communication in 2013. He was with Toyoto InfoTechnology Center at Mountain View, USA before joining the National Council for Scientific Research (CNRS) Lebanon in 2015. He is a researcher at National Center for Remote Sensing - CNRS where he established the Geospatial Smart City Lab. Dr Ghandour is also the coordinator of the Lebanese National Technology Transfer Network. Ali has more than 30 publications with special focus on geospatial smart cities, transportation and urban features extraction from aerial imagery using deep learning techniques. 
