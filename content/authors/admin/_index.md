@@ -14,7 +14,7 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: National Council for Scientific Research
+- name: National Council for Scientific Research (CNRS)
   url: "http://www.cnrs.edu.lb/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,9 +51,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=1XOpq7oAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/aghand0ur/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/aghand0ur/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ali Ghandour earned a Ph.D. in Computer Communication in 2013. He was with Toyoto InfoTechnology Center at Mountain View, USA before joining the National Council for Scientific Research (CNRS) Lebanon in 2015. He is a Researcher at National Center for Remote Sensing where he established the Smart City Transportation Lab. He is also the coordinator of the Lebanese National Technology Transfer Network. Dr Ghandour has more than 30 publications with special focus on smart cities and urban features extraction from aerial images using deep learning techniques. 
