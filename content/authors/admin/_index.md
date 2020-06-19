@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:aghandour@cnrs.edu.lb
+  link: mailto:aghandour at cnrs.edu.lb
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AliJGhandour
