@@ -18,24 +18,25 @@ organizations:
   url: "http://www.cnrs.edu.lb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include smart city transportation, urban features detection from high resolution aerial imagery and geospatila deep learning.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Remote Sensing
+- Smart City
+- Transportation
+- Geospatial Deep Learning
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Ali Ghandour earned a Ph.D. in Computer Communication in 2013. He was with Toyoto InfoTechnology Center at Mountain View, USA before joining the National Council for Scientific Research (CNRS) Lebanon in 2015. He is a Researcher at National Center for Remote Sensing where he established the Smart City Transportation Lab. He is also the coordinator of the Lebanese National Technology Transfer Network. Dr Ghandour has more than 30 publications with special focus on smart cities and urban features extraction from aerial images using deep learning techniques. 
+Ali Ghandour earned a Ph.D. in Computer Communication in 2013. He was with Toyoto InfoTechnology Center at Mountain View, USA before joining the National Council for Scientific Research (CNRS) Lebanon in 2015. He is a Researcher at National Center for Remote Sensing where he established the Smart City Transportation Lab. He is also the coordinator of the Lebanese National Technology Transfer Network. Dr Ghandour has more than 30 publications with special focus on smart cities, transportation and urban features extraction from aerial images using deep learning techniques. 
