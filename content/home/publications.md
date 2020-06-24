@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Check my <a href="https://scholar.google.com/citations?user=1XOpq7oAAAAJ">Google Scholar profile </a> for the most up-to-date publications’ list.
+Check my <a href="https://scholar.google.com/citations?user=1XOpq7oAAAAJ" target="_blank">Google Scholar profile </a> for the most up-to-date publications’ list.
 {{% /alert %}}
