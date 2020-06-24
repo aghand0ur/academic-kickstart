@@ -68,5 +68,5 @@ subtitle = ""
 +++
 
 {{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
+Check my <a href="https://scholar.google.com/citations?user=1XOpq7oAAAAJ">Google Scholar profile </a> for the most up-to-date publications’ list.
 {{% /alert %}}
