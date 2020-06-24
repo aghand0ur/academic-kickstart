@@ -1,6 +1,5 @@
 ---
 title: Publications
-Check my Google Scholar profile for the most up-to-date publications’ list.
 
 # View.
 #   1 = List
