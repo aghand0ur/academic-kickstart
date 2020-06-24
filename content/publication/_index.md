@@ -1,5 +1,6 @@
 ---
 title: Publications
+Check my Google Scholar profile for the most up-to-date publications’ list.
 
 # View.
 #   1 = List
@@ -10,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "Ghandour, A.J.; Hammoud, H.; Al-Hajj, S. Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach. Int. J. Environ. Res. Public Health 2020, 17, 4111."
+  caption: ""
   image: ""
 ---
