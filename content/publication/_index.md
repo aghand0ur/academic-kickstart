@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Ghandour, A.J.; Hammoud, H.; Al-Hajj, S. Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach. Int. J. Environ. Res. Public Health 2020, 17, 4111.
