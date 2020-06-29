@@ -22,6 +22,12 @@ subtitle = ""
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
+  
+  title: the title of your publication
+date: the date that your publication was first published (must be in a valid TOML date format)
+publication_types: 2
+publication: where your title was published - Markdown formatting is enabled here for italic etc.
+abstract: the summary of your publication
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -70,5 +76,3 @@ subtitle = ""
 {{% alert note %}}
 Check my <a href="https://scholar.google.com/citations?user=1XOpq7oAAAAJ" target="_blank">Google Scholar profile </a> for the most up-to-date publications’ list.
 {{% /alert %}}
-
-Ghandour, A.J.; Hammoud, H.; Al-Hajj, S. Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach. Int. J. Environ. Res. Public Health 2020, 17, 4111.
