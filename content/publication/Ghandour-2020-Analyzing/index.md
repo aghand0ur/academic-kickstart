@@ -6,7 +6,7 @@ authors: ["Ali J. Ghandour", "Huda Hammoud", "Samar Al-Hajj"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*International Journal of Environmental Research and Public Health*"
+publication: "International Journal of Environmental Research and Public Health"
 doi: "10.3390/ijerph17114111"
 ---
 
