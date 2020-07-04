@@ -18,10 +18,11 @@ organizations:
   url: "http://rsensing.cnrs.edu.lb/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include smart city transportation, urban features detection from high resolution aerial imagery and geospatila deep learning.
+bio: My research interests include earth observation, smart city transportation, urban features detection from high resolution aerial imagery and geospatial deep learning.
 
 interests:
 - Remote Sensing
+Earth Observation
 - Smart City
 - Transportation
 - Geospatial Deep Learning
@@ -72,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS) where I have established the Geospatial Urban Sensing Group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA before joining CNRS in 2015 where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
+I am a researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS) where I have established the Geospatial Earth Observation (GEO) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA before joining CNRS in 2015 where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
 
 I have more than 30 publications with special research focus on geospatial urban sensing, transportation and urban features extraction from aerial imagery using deep learning techniques. I develop tools to automate the process of urban features extraction and collect crowd-sourcing data from various sources. Evidence gained from my models and data analysis provides policymakers and key stakeholders with insights to design tailored regulations and safety countermeasures for urban social good. In the past, I made research contributions to vehicular cognitive networks and IEEE P1609 standard Working Group.
