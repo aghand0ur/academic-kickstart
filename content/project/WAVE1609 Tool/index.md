@@ -6,7 +6,7 @@ summary: "Modeling and Simulation of WAVE 1609.4-based Multi-channel VANETs"
 authors: []
 tags: []
 categories: []
-date: 201@-12-03T10:59:15+01:00
+date: 2012-12-03T10:59:15+01:00
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "https://pribot.org/polisis"
