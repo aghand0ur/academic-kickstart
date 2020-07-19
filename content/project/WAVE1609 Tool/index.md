@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Polisis"
-summary: "AI-Powered Summaries of Privacy Policies"
+title: "WAVE1609 Tool"
+summary: "Modeling and Simulation of WAVE 1609.4-based Multi-channel VANETs"
 authors: []
 tags: []
 categories: []
-date: 2017-08-22T10:59:15+01:00
+date: 201@-12-03T10:59:15+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://pribot.org/polisis"
+#external_link: "https://pribot.org/polisis"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+IEEE 1609.4 Standard for Wireless Access in Vehicular Environments (WAVE) has been proposed to enhance the performance of vehicular networks. We propose here the WAVE1609 tool that presents an implementation of the IEEE 1609.4 protocol. We believe that this will be especially welcomed by researchers who already have ongoing work in ns2 and therefore could use our implementation to extend their work.
