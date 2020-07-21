@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Polisis"
-summary: "AI-Powered Summaries of Privacy Policies"
+title: "National Technology Transfer Office"
+summary: ""
 authors: []
 tags: []
 categories: []
 date: 2017-08-22T10:59:15+01:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://pribot.org/polisis"
+#external_link: "https://pribot.org/polisis"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
