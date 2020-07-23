@@ -42,12 +42,12 @@ slides: ""
 
 IEEE 1609.4 Standard for Wireless Access in Vehicular Environments (WAVE) has been proposed to enhance the performance of vehicular networks. We propose here the WAVE1609 tool that presents an implementation of the IEEE 1609.4 protocol. We believe that this tool will be especially welcomed by researchers who already have ongoing work in ns2 and therefore could use our implementation to extend their work.
 
-Patch (R2 on December 3, 2012). A bug in cmu-trace.cc file was fixed thanks to Jaeseon Hwang, Gwangju Institute of Science and Technology (GIST), Republic of Korea.
+<a href="https://" target="_blank">Patch</a> (R2 on December 3, 2012). A bug in cmu-trace.cc file was fixed thanks to Jaeseon Hwang, Gwangju Institute of Science and Technology (GIST), Republic of Korea.
 
-Patch (R1 on October 11, 2012).
+<a href="https://" target="_blank">Patch</a> (R1 on October 11, 2012).
 
-Documentation (Last updated on October 11, 2012).
+<a href="https://" target="_blank">Documentation</a> (Last updated on October 11, 2012).
 
-Tcl Sample
+<a href="https://" target="_blank">Tcl Sample</a>
 
-Paper:  Modeling and Simulation of WAVE 1609.4-based Multi-channel Vehicular Ad Hoc Networks
+Paper:  <a href="https://" target="_blank">Modeling and Simulation of WAVE 1609.4-based Multi-channel Vehicular Ad Hoc Networks</a>
