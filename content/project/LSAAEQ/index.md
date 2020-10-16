@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "LSAAEQ"
-summary: "Lebanese Strategy to traffic management and accident avoidance using big data analytics."
+title: "LRAP"
+summary: "Lebanese Road Crashes Platform."
 authors: []
 tags: []
 categories: []
@@ -40,7 +40,7 @@ url_video: ""
 slides: ""
 ---
 
-Traffic accidents in Lebanon are constantly harvesting lives, dramatically changing others, and traumatizing those of their beloved ones. Due to the lack of statutory authority in charge of collecting and reporting accident related data, the Lebanese Road Accident Platform (LRAP) is proposed in this work as a real-time online platform to collect crash events from social media. LRAP allows for autonomous data collection, classification and visualization without human intervention, and aims to help the authorities in laying down the appropriate measures for traffic accidents prevention. The following research are the output of this platform:
+Traffic accidents in Lebanon are constantly harvesting lives, dramatically changing others, and traumatizing those of their beloved ones. Due to the lack of statutory authority in charge of collecting and reporting accident related data, the Lebanese Road Crashes Platform (LRCP) is proposed in this work as a real-time online platform to collect crash events from social media. LRCP allows for autonomous data collection, classification and visualization without human intervention, and aims to help the authorities in laying down the appropriate measures for traffic accidents prevention. The following research are the output of this platform:
 
 1. Allometric scaling of road accidents using social media crowd-sourced data
 2. Analyzing Factors Associated with Fatal Road Crashes: A Machine Learning Approach
