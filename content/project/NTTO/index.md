@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "National Technology Transfer Office"
+title: "National Technology Transfer Network"
 summary: ""
 authors: []
 tags: []
@@ -39,3 +39,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+This project aims to enhance national innovation system capacity through updating related legislations, policies; and the establishment of National Technology Transfer Network linked to universities and research centers facilitating the partnership among the research community, economic development sector, industry, and relevant governmental actors. 
+
+Specifically, this project focused on:
+.STI related national legislations, policies and operational Technology Development and Transfer systems
+. Facilitate linkages among the universities and research institutions with the economic development sector, industry, and relevant governmental actors.
+. Promote institutional interface for science with policy planning and assessment
+. Reinforce national network of technology transfer experts and institutions for conceivable sustained exchange and cooperation platform.
+
+The project spans from 2015 to 2018 with support from UN ESCWA and comprised several workshops at the national level at the Grand Serail and the Lebanese Parliment.
+All studies and recommendations can be accessed via this <a href="https://www.dropbox.com/s/88hqff3cab7iprk/National%20Technology%20Development%20and%20Transfer%20System%20in%20Lebanon.pdf?dl=0">final report </a>.

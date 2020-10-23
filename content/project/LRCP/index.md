@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "LRCP"
-summary: "Lebanese Road Crashes Platform."
+summary: "Lebanese Road Crashes Platform"
 authors: []
 tags: []
 categories: []
