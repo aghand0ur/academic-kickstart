@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "National Technology Transfer Network"
-summary: ""
+summary: "Enhance national innovation system capacity"
 authors: []
 tags: []
 categories: []
@@ -39,6 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+
 This project aims to enhance national innovation system capacity through updating related legislations, policies; and the establishment of National Technology Transfer Network linked to universities and research centers facilitating the partnership among the research community, economic development sector, industry, and relevant governmental actors. 
 
 Specifically, this project focused on:
