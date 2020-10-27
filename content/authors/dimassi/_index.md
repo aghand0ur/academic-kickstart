@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Abdul Karim Gizzini
+title: Mohamad Dimassi
 
 
 # Username (this should match the folder name)
 authors:
-- jezzini
+- dimassi
 
 # Is this the primary user of the site?
 superuser: no
 
 # Role/position
-role: Phd student
+role: Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: Murex
   url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,6 +23,8 @@ bio:
 
 interests:
 - Machine Learning
+- Computer Vision
+- Networking
 
 #education:
 #  courses:
@@ -44,16 +46,17 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:abedelkarim.j at gmail.com
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
+  link: mailto:md22.dimassi at gmail.com
+
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/AliJGhandour
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/abdul-karim-gizzini-bb50b7120/
+  link: https://www.linkedin.com/in/mohammad-m-al-dimassi-130362182/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/aghand0ur/
@@ -72,5 +75,4 @@ user_groups:
 - Alumni
 
 ---
-Experienced Researcher with a demonstrated history of working in the research industry espacially in image processing research area. Skilled in Oracle Database, Matlab, Networking, LabVIEW, Management, and Java. Strong research professional with a Master's degree focused in Networking and Security. Now iam preparing to continue my ... see more 
-
+Full Stack Engineer and Software Developer, having excellent knowledge in algorithms, data structures, and programming (C++ & Python), and experienced in designing Machine Learning and Computer Vision projects.
