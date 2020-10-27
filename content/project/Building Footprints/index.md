@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Building Footprints"
-summary: ""
+summary: "The first comprehensive Lebanese Building Footprints autonomously generated using Deep Learning."
 authors: []
 tags: []
 categories: []
