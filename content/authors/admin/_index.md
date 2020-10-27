@@ -71,9 +71,9 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Researchers
-- Visitors
+#user_groups:
+#- Researchers
+#- Visitors
 ---
 
 I am a researcher at the Lebanese National Center for Remote Sensing - National Council for Scientific Research (CNRS) where I have established the Geospatial Earth Observation (GEO) group. I earned a Ph.D. in Computer Communication in 2013 and was with Toyota Motor North America, InfoTech Labs at Mountain View, USA before joining CNRS in 2015 where I also acted as the coordinator of the Lebanese National Innovation Transfer Network.
