@@ -11,7 +11,7 @@ authors:
 superuser: no
 
 # Role/position
-role: Phd student
+role: Freelance Developer
 
 # Organizations/Affiliations
 organizations:
@@ -22,7 +22,8 @@ organizations:
 bio:
 
 interests:
-- Machine Learning
+- Android
+- iOS
 
 #education:
 #  courses:
