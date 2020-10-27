@@ -23,6 +23,10 @@ bio:
 
 interests:
 - Machine Learning
+- Image and Signal Processing
+- Deep Learning
+- Vehicular Communications
+- Channel Estimations
 
 #education:
 #  courses:
@@ -72,5 +76,6 @@ user_groups:
 - Alumni
 
 ---
-Experienced Researcher with a demonstrated history of working in the research industry espacially in image processing research area. Skilled in Oracle Database, Matlab, Networking, LabVIEW, Management, and Java. Strong research professional with a Master's degree focused in Networking and Security.
+Experienced Researcher with a demonstrated history of working in the research industry especially in image and signal processing research area. Skilled in Oracle Database, MATLAB, Networking, LabVIEW, Management, and Java. 
+Strong research professional with a Master’s degree focused in Networking and Security.
 
