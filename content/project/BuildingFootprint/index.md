@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Urban Features Detection"
+title: "Building Footprints"
 summary: ""
 authors: []
 tags: []
 categories: []
-date: 2017-08-22T10:59:15+01:00
+date: 2020-10-27T10:59:15+01:00
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "https://pribot.org/polisis"
@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+The first comprehensive Lebanese Building Footprints map was autonomously generated using Deep Learning Models that were developed and tested at the Lebanese National Remote Sensing Center - CNRS.
+We trained fully convolutional 'Encoder-Decoder' like Neural Networks on GEOEYE-1 high resolution satellite images (50 cm/pixel) from the Year 2013 for semantic segmentation of urban areas.
+
+When you ZOOM IN, the dots on the map refer to the centroids of each building at a specific geographical location.
+This ongoing research project was conducted by Eng. Hasan Nasrallah. Web development achieved by Kawthar Salami. The map can be accessed via the following link: <a href="http://geo.cnrs.edu.lb:8080/urbanmap/">Map</a>
