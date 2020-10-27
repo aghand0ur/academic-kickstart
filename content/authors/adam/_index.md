@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Abdul Karim Gizzini
+title: Adam Issa
 
 
 # Username (this should match the folder name)
 authors:
-- jezzini
+- adam
 
 # Is this the primary user of the site?
 superuser: no
 
 # Role/position
-role: Phd student
+role: Operations Research Developer
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: IBS Software
   url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,16 +44,16 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:abedelkarim.j at gmail.com
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
+  link: mailto:adam.issa95 at gmail.com
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/AliJGhandour
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/abdul-karim-gizzini-bb50b7120/
+  link: https://www.linkedin.com/in/adam-issa-9818ab56/?originalSubdomain=ca
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/aghand0ur/
@@ -72,5 +72,7 @@ user_groups:
 - Alumni
 
 ---
-Experienced Researcher with a demonstrated history of working in the research industry espacially in image processing research area. Skilled in Oracle Database, Matlab, Networking, LabVIEW, Management, and Java. Strong research professional with a Master's degree focused in Networking and Security.
+I have completed my Master of Applied Science (M.A.Sc) degree in Electrical and Computer Engineering at the University of Toronto in September 2019. I was part of the computer group and worked under the supervision of Prof. Farid N. Najm in the area of Computer Aided Design (CAD) for integrated circuits. I have previously completed my Bachelor in Electrical and Computer Engineering, as well as a minor in Mathematics, at the American University of Beirut. 
+
+
 
