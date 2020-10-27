@@ -6,7 +6,7 @@ summary: "The first comprehensive Lebanese Building Footprints autonomously gene
 authors: []
 tags: []
 categories: []
-date: 2020-10-27T10:59:15+01:00
+date: 2020-10-10T10:59:15+01:00
 
 # Optional external URL for project (replaces project detail page).
 #external_link: "https://pribot.org/polisis"
