@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Houssam Krayem
+title: Ali Hariri
 
 
 # Username (this should match the folder name)
 authors:
-- houssam
+- hariri
 
 # Is this the primary user of the site?
 superuser: no
@@ -15,14 +15,15 @@ role: Phd student
 
 # Organizations/Affiliations
 organizations:
-- name:
+- name: University of Trento and Huawei research center
   url:
 
 # Short bio (displayed in user profile at end of posts)
 bio:
 
 interests:
-- Machine Learning
+- Cloud
+- Data Protection
 
 #education:
 #  courses:
@@ -44,19 +45,19 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:krayem.hossam at gmail.com
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=uFxEb2sAAAAJ&hl=en
+  link: mailto:hariri.ali.93 at gmail.com
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/AliJGhandour
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/houssam-krayem-5babb610b/
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/aghand0ur/
+  link: https://www.linkedin.com/in/ali-hariri-03b390105/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/HaririAli
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -72,5 +73,5 @@ user_groups:
 - Alumni
 
 ---
-Experienced Researcher with a demonstrated history of working in the research industry espacially in image processing research area. Skilled in Oracle Database, Matlab, Networking, LabVIEW, Management, and Java. Strong research professional with a Master's degree focused in Networking and Security.
-
+Doctoral student specialising in the field of dynamic access control and authorisation; strong technical, planning,
+and organisational skills gained throughout work experience, internships and university courses. 
