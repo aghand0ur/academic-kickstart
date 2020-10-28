@@ -5,13 +5,13 @@ title: Nadia Mouawad
 
 # Username (this should match the folder name)
 authors:
-- jezzini
+- nadia
 
 # Is this the primary user of the site?
 superuser: no
 
 # Role/position
-role: WEb Developer
+role: Web Developer
 
 # Organizations/Affiliations
 organizations:
