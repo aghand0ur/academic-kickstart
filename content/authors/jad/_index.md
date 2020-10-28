@@ -22,6 +22,9 @@ organizations:
 bio:
 
 interests:
+- Microservices
+- Linux   
+- Code refactoring
 - Databases
 - Data Manipulation
 - Algorithms
@@ -55,8 +58,8 @@ social:
 #  link: https://twitter.com/AliJGhandour
 - icon: linkedin
   icon_pack: fab
-  link: linkedin.com/in/jad-chahine
-- icon: github
+  link: https://www.linkedin.com/in/jad-chahine/
+- icon: stackoverflow
   icon_pack: fab
   link: https://stackoverflow.com/users/4509268/jad-chahine?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
