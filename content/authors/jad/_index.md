@@ -59,7 +59,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/jad-chahine/
-- icon: stackoverflow
+- icon: stack-overflow
   icon_pack: fab
   link: https://stackoverflow.com/users/4509268/jad-chahine?tab=profile
 # Link to a PDF of your resume/CV from the About widget.
