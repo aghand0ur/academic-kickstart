@@ -47,8 +47,8 @@ social:
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
   link: mailto:mouawad.nadia at gmail.com
-- icon: google-scholar
-  icon_pack: ai
+- icon: researchgate
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Nadia_Mouawad
 #- icon: twitter
 #  icon_pack: fab
