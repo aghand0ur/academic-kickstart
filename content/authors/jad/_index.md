@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:hariri.ali.93 at gmail.com
+  link: mailto:jad.chahine4 at gmail.com
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en

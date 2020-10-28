@@ -46,7 +46,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
-  link: mailto:abedelkarim.j at gmail.com
+  link: mailto:mouawad.nadia at gmail.com
 - icon: google-scholar
   icon_pack: ai
   link: https://www.researchgate.net/profile/Nadia_Mouawad
