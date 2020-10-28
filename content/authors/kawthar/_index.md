@@ -11,7 +11,7 @@ authors:
 superuser: no
 
 # Role/position
-role: Grad Students
+role: Web Map Developer
 
 # Organizations/Affiliations
 organizations:
