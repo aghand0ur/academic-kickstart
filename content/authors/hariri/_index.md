@@ -24,6 +24,8 @@ bio:
 interests:
 - Cloud
 - Data Protection
+- IoT Security
+- Access and Usage Control
 
 #education:
 #  courses:

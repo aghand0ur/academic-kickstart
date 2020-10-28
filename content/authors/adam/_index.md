@@ -22,7 +22,10 @@ organizations:
 bio:
 
 interests:
-- Machine Learning
+- Operations Research
+- Electronic Design Automation (EDA)
+- Numerical Algorithms
+- Computer Science
 
 #education:
 #  courses:
@@ -45,9 +48,9 @@ social:
   icon_pack: fas
   #link: '#contact'  # For a direct email link, use
   link: mailto:adam.issa95 at gmail.com
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=oiH7PAQAAAAJ&hl=en
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PehH0tUAAAAJ&hl=en
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/AliJGhandour
@@ -72,7 +75,10 @@ user_groups:
 - Alumni
 
 ---
-I have completed my Master of Applied Science (M.A.Sc) degree in Electrical and Computer Engineering at the University of Toronto in September 2019. I was part of the computer group and worked under the supervision of Prof. Farid N. Najm in the area of Computer Aided Design (CAD) for integrated circuits. I have previously completed my Bachelor in Electrical and Computer Engineering, as well as a minor in Mathematics, at the American University of Beirut. 
+I am currently working as an Operations Research Developer at IBS Software, Montreal, Canada.
+I have received my Master of Applied Science (M.A.Sc) degree in Electrical and Computer Engineering at the University of Toronto in November 2019, under supervision of Prof. Farid N. Najm.
+My research topic was in the area of Computer Aided Design (CAD) for integrated circuits (a.k.a EDA). We won the Best Paper Award in ICCAD 2020 for the paper related to my Master's thesis.
+I have also received my Bachelor of Engineering (B.E.) in Computer and Communications Engineering, as well as a minor in Mathematics, at the American University of Beirut, in May 2017.
 
 
 
