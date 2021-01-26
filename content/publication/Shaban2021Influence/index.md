@@ -1,5 +1,5 @@
 ---
-title: "Influence of snow cover on water capacity in the Qaraaoun Reservoir, Lebanon"
+title: "Influence of Snow Cover on Water Capacity in the Qaraaoun Reservoir, Lebanon"
 date: 2021-01-06
 publishDate: 2020-06-23T06:49:10.207700Z
 authors: ["Amin Shaban", "Laurent Drapeau", "Luciano Telesca","Nabil Amacha", "Ali J. Ghandour"]
